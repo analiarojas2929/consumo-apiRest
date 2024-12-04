@@ -47,10 +47,10 @@ defineProps({
 }
 
 .bg-left {
-    background-color: rgb(219, 149, 240);
+    background-color: #f50669;
 }
 
 .bg-right {
-    background-color: rgb(81, 219, 219);
+    background-color: #53df30;
 }
 </style>

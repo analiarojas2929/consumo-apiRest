@@ -123,7 +123,7 @@ button {
   border-radius: 12px;
   padding: 8px;
   margin-top: 12px;
-  background-color: rgb(233, 224, 100);
+  background-color: rgb(94, 94, 94);
   cursor: pointer;
   width: 200px;
 
